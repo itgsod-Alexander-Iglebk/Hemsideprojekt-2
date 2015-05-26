@@ -85,7 +85,7 @@ a:hover {color: dodgerblue;}
     position:relative;
     height:281px;
     width:450px;
-    margin:0 auto;
+    margin-left: 50%;
 }
 
 #cf img {
@@ -95,10 +95,15 @@ a:hover {color: dodgerblue;}
     -moz-transition: opacity 0.5s ease-in-out;
     -o-transition: opacity 0.5s ease-in-out;
     transition: opacity 0.5s ease-in-out;
+
 }
 
 #cf img.top:hover {
     opacity: 0;
+}
+#omossfakta{
+    width: 200px;
+    height: 10%;
 }
 
 
